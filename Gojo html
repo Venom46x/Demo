@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sukuna</title>
+    <link rel="stylesheet" href="style1.css" type="text/css" media="all" />
+    <link href='https://cdn.boxicons.com/fonts/brands/boxicons-brands.min.css' rel='stylesheet'>
+  </head>
+  <body>
+    <header>
+      <a href="#" class="logo">Vivek</a>
+      <ul class="menu-link">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About </a></li> 
+        <li><a href="#">Skill </a></li> 
+        <li><a href="#">
+          Projects</a></li> 
+      </ul>
+      <div class="menu-right">
+            
+        
+<button type="button" class="btn">Contact Us </button>
+  <div id="menu-toggle" class="menu-toggle">&#9776;</div> </div>
+    </header>
+    <section class="hero">
+      <div class="hero-text">
+        <h5>#1 Trending </h5>
+        <h1>Gojo Saturo </h1>
+        <h4> Reverse Curse </h4>
+        <p>  question, “are you the strongest because you're gojo satoru, or are you gojo satoru because you're the strongest?
+        </p>
+        <a href="#">Here</a> 
+        <a href="#" class="cta"> <i class='bxr  bx-arrow-big-right-line' ></i> Domain expansion</a>
+      </div>
+      <div class="hero-img">
+        <img src="Img/Gojo.png" alt="" />
+        
+      </div>
+   </section>
+      </section>  <section id="about" class="about">
+    <h2>About Me</h2>
+    <p>I'm a college student passionate about web development and anime aesthetics. I’ve completed a professional course in web development and am building unique, modern designs inspired by my favorite characters like Gojo Satoru.</p>
+  </section>  <section id="skills" class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML & CSS</li>
+      <li>JavaScript</li>
+      <li>Responsive Design</li>
+      <li>React (Basics)</li>
+      <li>Git & GitHub</li>
+    </ul>
+  </section>  <section id="projects" class="projects">
+    <h2>Projects</h2>
+    <div class="project-card">
+      <h3>Anime Blog</h3>
+      <p>A blog website using HTML/CSS/JS styled in anime theme.</p>
+    </div>
+    <div class="project-card">
+      <h3>Portfolio Website</h3>
+      <p>This Gojo-themed site to showcase my skills and creativity.</p>
+    </div>
+  </section> 
+    <script src="script.js" type="text/javascript" charset="utf-8"></script>
+  </body>
+</html>
